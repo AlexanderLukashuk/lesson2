@@ -1,0 +1,20 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/bin/Debug/netcoreapp3.1/lesson2_1.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/bin/Debug/netcoreapp3.1/lesson2_1.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/bin/Debug/netcoreapp3.1/lesson2_1.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/bin/Debug/netcoreapp3.1/lesson2_1.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/bin/Debug/netcoreapp3.1/lesson2_1.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/obj/Debug/netcoreapp3.1/lesson2_1.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/obj/Debug/netcoreapp3.1/lesson2_1.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/obj/Debug/netcoreapp3.1/lesson2_1.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/obj/Debug/netcoreapp3.1/lesson2_1.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson2_1/obj/Debug/netcoreapp3.1/lesson2_1.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/bin/Debug/netcoreapp3.1/lesson2_1.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/bin/Debug/netcoreapp3.1/lesson2_1.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/bin/Debug/netcoreapp3.1/lesson2_1.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/bin/Debug/netcoreapp3.1/lesson2_1.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/bin/Debug/netcoreapp3.1/lesson2_1.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/obj/Debug/netcoreapp3.1/lesson2_1.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/obj/Debug/netcoreapp3.1/lesson2_1.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/obj/Debug/netcoreapp3.1/lesson2_1.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/obj/Debug/netcoreapp3.1/lesson2_1.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/practical work/obj/Debug/netcoreapp3.1/lesson2_1.pdb
